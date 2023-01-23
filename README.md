@@ -2,7 +2,7 @@
 
 Starter code for jpa00
 
-Assignment Description: <https://ucsb-cs156.github.io/f22/lab/jpa00>
+Assignment Description: <https://canvas.vt.edu/courses/165554/assignments/1730659>
 
 This lab is a simple `"Hello, World!" type assignment to familiarize
 you with compiling Java using Maven, and submitting using Gradescope.
